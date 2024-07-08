@@ -1,0 +1,28 @@
+# Ignored Folders
+.minecraft/.mixin.out/
+.minecraft/asm
+.minecraft/astralsorcery
+.minecraft/betweenlands_gallery
+.minecraft/coremods
+.minecraft/crash-reports
+## There is configurable stuff in JMap Folder (likely wont ever touch it)
+.minecraft/journeymap
+.minecraft/llibrary
+.minecraft/logs
+.minecraft/mods
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/shaderpacks
+.minecraft/texturepacks
+.minecraft/tombstone
+
+# Ignored Files
+.minecraft/*.dat
+.minecraft/*.ini
+.minecraft/*.json
+.minecraft/*.log
+.minecraft/*.png
+.minecraft/*.txt
+
+# Clientside Configs to Ignore (WIP)
