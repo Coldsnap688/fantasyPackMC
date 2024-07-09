@@ -1,9 +1,9 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.world.IWorld;
-//Mod Inspirations
+// Mod Inspirations
 
-//Additions OredictEntries
+// Additions OredictEntries
 <ore:listAlljuice>.add(<toughasnails:fruit_juice:1>);
 <ore:listAlljuice>.add(<toughasnails:fruit_juice:2>);
 <ore:listAlljuice>.add(<toughasnails:fruit_juice:3>);
@@ -13,3 +13,4 @@ import crafttweaker.world.IWorld;
 <ore:listAlljuice>.add(<toughasnails:fruit_juice:7>);
 <ore:listAlljuice>.add(<toughasnails:fruit_juice:8>);
 <ore:listAlljuice>.add(<toughasnails:fruit_juice:9>);
+<ore:flower>.add(<inspirations:flower>);

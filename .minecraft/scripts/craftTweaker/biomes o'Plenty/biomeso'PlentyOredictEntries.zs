@@ -1,9 +1,9 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.world.IWorld;
-//Mod Biomes O' Plenty
+// Mod Biomes O' Plenty
 
-//Additions OredictEntries
+// Additions OredictEntries
 <ore:listAllfruit>.add(<biomesoplenty:berries>);
 <ore:listAllmushroom>.add(<biomesoplenty:mushroom>);
 <ore:listAllmushroom>.add(<biomesoplenty:mushroom:1>);
@@ -17,3 +17,5 @@ import crafttweaker.world.IWorld;
 <ore:cropFlax>.add(<biomesoplenty:double_plant:0>);
 <ore:cropBarley>.add(<biomesoplenty:plant_1:11>);
 <ore:cropOats>.add(<biomesoplenty:double_plant:3>);
+<ore:flower>.add(<biomesoplenty:flower_0>);
+<ore:flower>.add(<biomesoplenty:flower_1>);

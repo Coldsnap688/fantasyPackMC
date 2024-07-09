@@ -1,9 +1,9 @@
 import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.world.IWorld;
-//Mod The Betweenlands
+// Mod The Betweenlands
 
-//Additions OredictEntries
+// Additions OredictEntries
 <ore:listAllmeatraw>.add(<thebetweenlands:frog_legs_raw>);
 <ore:listAllmeatraw>.add(<thebetweenlands:snail_flesh_raw>);
 <ore:listAllmeatraw>.add(<thebetweenlands:silt_crab_claw>);
@@ -35,3 +35,17 @@ import crafttweaker.world.IWorld;
 <ore:foodMarshmallows>.add(<thebetweenlands:marshmallow_pink>);
 <ore:cropSeaweed>.add(<thebetweenlands:swamp_kelp_item>);
 <ore:bowlWood>.add(<thebetweenlands:items_misc:22>);
+<ore:flower>.add(<thebetweenlands:bladderwort_flower>);
+<ore:flower>.add(<thebetweenlands:blue_eyed_grass>);
+<ore:flower>.add(<thebetweenlands:blue_iris>);
+<ore:flower>.add(<thebetweenlands:bog_bean_flower>);
+<ore:flower>.add(<thebetweenlands:boneset>);
+<ore:flower>.add(<thebetweenlands:cardinal_flower>);
+<ore:flower>.add(<thebetweenlands:golden_club_flower>);
+<ore:flower>.add(<thebetweenlands:copper_iris>);
+<ore:flower>.add(<thebetweenlands:marsh_hibiscus>);
+<ore:flower>.add(<thebetweenlands:marsh_mallow>);
+<ore:flower>.add(<thebetweenlands:marsh_marigold_flower>);
+<ore:flower>.add(<thebetweenlands:milkweed>);
+<ore:flower>.add(<thebetweenlands:nettle>);
+<ore:flower>.add(<thebetweenlands:nettle_flowered>);
