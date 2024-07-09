@@ -2,7 +2,7 @@
   "name": "underground",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 8,
   "ignoreBiomes": false,
   "ignoreLightLevel": false,
@@ -10,9 +10,9 @@
     {
       "type": "world",
       "dimensionIds": [
-        4
+        0,10
       ],
-      "dimensionListType": "blacklist"
+      "dimensionListType": "whitelist"
     }
   ],
   "triggers": [

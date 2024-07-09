@@ -11,14 +11,10 @@
   "enabled": true,
   "spawning": {
     "enabled": true,
-    "spawners": [
-      "underground"
-    ],
+    "spawners": [],
     "disableSubspecies": false,
-    "dimensionIds": [
-      1,0,10
-    ],
-    "dimensionListType": "whitelist",
+    "dimensionIds": [],
+    "dimensionListType": "blacklist",
     "ignoreBiome": true,
     "biomeTags": [],
     "spawnWeight": 8,
