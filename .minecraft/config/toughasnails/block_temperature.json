@@ -1,0 +1,125 @@
+[
+  {
+    "state": {
+      "block": "toughasnails:campfire",
+      "properties": {
+        "burning": "true"
+      }
+    },
+    "temperature": 5.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lit_furnace",
+      "properties": {}
+    },
+    "temperature": 3.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:flowing_lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:magma",
+      "properties": {}
+    },
+    "temperature": 12.0
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:hot_spring_water",
+      "properties": {}
+    },
+    "temperature": 5.0
+  },
+    {
+    "state": {
+      "block": "nyx:meteor_rock",
+      "properties": {}
+    },
+    "temperature": 8.0
+  },  
+  {
+    "state": {
+      "block": "minecraft:lit_pumpkin",
+      "properties": {}
+    },
+    "temperature": 2.0
+  },  
+  {
+    "state": {
+      "block": "iceandfire:dragonforge_fire_core",
+      "properties": {
+        "burning": "true"		  
+	  }
+    },
+    "temperature": 20.0
+  },  
+  {
+    "state": {
+      "block": "thebetweenlands:peat_smouldering",
+      "properties": {}
+    },
+    "temperature": 3.0
+  },  
+  {
+    "state": {
+      "block": "thaumicwonders:everburning_urn",
+      "properties": {}
+    },
+    "temperature": 12.0
+  },  
+  {
+    "state": {
+      "block": "quark:blaze_lantern",
+      "properties": {}
+    },
+    "temperature": 2.0
+  },
+  {
+    "state": {
+      "block": "botania:blazeblock",
+      "properties": {}
+    },
+    "temperature": 9.0
+  },
+    {
+    "state": {
+      "block": "tconstruct:firewood",
+      "properties": {}
+    },
+    "temperature": 4.0
+  },
+  {
+    "state": {
+      "block": "tconstruct:lavawood_stairs",
+      "properties": {}
+    },
+    "temperature": 3.0
+  },  
+  {
+    "state": {
+      "block": "tconstruct:firewood_stairs",
+      "properties": {}
+    },
+    "temperature": 3.0
+  },
+  {
+    "state": {
+      "block": "tconstruct:firewood_slab",
+      "properties": {}
+    },
+    "temperature": 2.0
+  }
+]

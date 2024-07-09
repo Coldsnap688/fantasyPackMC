@@ -1,0 +1,40 @@
+[
+{
+	"remove": ["primitivemobs:support_creeper","primitivemobs:goblin","primitivemobs:blazing_juggernaut"]
+},
+  {
+	"dimension": 7,
+	"biome": ["Twilight Stream","Twilight Swamp"],
+    "mobs": [
+	{
+		"mob":"primitivemobs:lily_lurker",
+		"weight": 1,
+		"groupcountmin": 1,
+		"groupcountmax": 1
+	}
+  ]
+},
+{
+	"dimension": 0,
+	"mobs": [
+	 {
+		"mob": "aqua_creepers:aqua_creeper",
+		"weight": 1,
+		"groupcountmin": 1,
+		"groupcountmax": 1
+	 }
+	]
+},
+{
+	"dimension": 10,
+	"mobs": [
+	 {
+		"mob": "charm:spectre",
+		"weight": 100,
+		"maxlight":8,
+		"groupcountmin": 1,
+		"groupcountmax": 1
+	 }
+	]
+}
+]

@@ -1,0 +1,25 @@
+[
+{
+	"mob": "charm:spectre",
+	"dimension":10,
+	"onjoin":true,
+	"maxcount": 3,
+	"result": "default"
+},
+{
+	"mob": ["charm:spectre"],
+	"onjoin":true,
+	"dimension":[10],
+	"result": "deny"
+},
+{
+	"mob": "aqua_creepers:aqua_creeper",
+	"biome": ["Deep Ocean"],
+	"maxcount": 3,
+	"result": "default"
+},
+{
+	"mob": "aqua_creepers:aqua_creeper",
+	"result": "deny"
+}
+]

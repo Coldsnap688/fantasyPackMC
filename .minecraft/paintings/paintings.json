@@ -1,0 +1,739 @@
+[
+	{
+		"motive": "darkpaintings_a_distant_light",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_afternoon_volcano",
+		"width": "1",
+		"height":"2"
+	},
+	{
+		"motive": "darkpaintings_antler_maze",
+		"width": "1",
+		"height":"2"
+	},
+	{
+		"motive": "darkpaintings_bubbles"
+	},
+	{
+		"motive": "darkpaintings_cottage_by_the_river"
+	},
+	{
+		"motive": "darkpaintings_crimson_taiga",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_daybreak",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_enderman",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_in_the_air",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_kerstball"
+	},
+	{
+		"motive": "darkpaintings_last_dreams_at_candyland",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_lumberjack",
+		"width": "4",
+		"height":"2"
+	},
+	{
+		"motive": "darkpaintings_mr_moon"
+	},
+	{
+		"motive": "darkpaintings_oceanic_view",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_planets",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_santa_moon",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "darkpaintings_seavibe"
+	},
+	{
+		"motive": "darkpaintings_sir_ramfrez_yarn_paradise"
+	},
+	{
+		"motive": "darkpaintings_skyblock"
+	},
+	{
+		"motive": "darkpaintings_snowman_scenery",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_summer_heat",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_tetromino",
+		"width": "1",
+		"height":"2"
+	},
+	{
+		"motive": "darkpaintings_the_most_sweet_candy"
+	},
+	{
+		"motive": "darkpaintings_the_secret_neighborhood",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "darkpaintings_the_tower",
+		"width": "1",
+		"height":"2"
+	},
+	{
+		"motive": "darkpaintings_the_wheel",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "darkpaintings_turkey"
+	},
+	{
+		"motive": "darkpaintings_village",
+		"width": "4",
+		"height":"2"
+	},
+	{
+		"motive": "darkpaintings_watching_the_sunset",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "darkpaintings_whale_dream",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_aether",
+		"width": "1",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_aspect_aer",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_aspect_ignis",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_aspect_terra",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_book"
+	},
+	{
+		"motive": "xksp_bow"
+	},
+	{
+		"motive": "xksp_burger"
+	},
+	{
+		"motive": "xksp_caverns",
+		"width": "1",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_cityscape",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "xksp_creeper"
+	},
+	{
+		"motive": "xksp_desert_city",
+		"width": "4",
+		"height":"3"
+	},
+	{
+		"motive": "xksp_end_city",
+		"width": "4",
+		"height":"4"
+	},
+	{
+		"motive": "xksp_magnet"
+	},
+	{
+		"motive": "xksp_mycelium",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_nether",
+		"width": "4",
+		"height":"4"
+	},
+	{
+		"motive": "xksp_pelagic",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "xksp_reef",
+		"width": "4",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_savanna",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_scroll"
+	},
+	{
+		"motive": "xksp_snowy_night",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_stilt_town",
+		"width": "4",
+		"height":"3"
+	},
+	{
+		"motive": "xksp_stump",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "xksp_sunrise",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "xksp_temple",
+		"width": "2",
+		"height":"2"
+	},	
+	{
+		"motive": "xksp_tools"
+	},
+	{
+		"motive": "xksp_village",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "xksp_vista",
+		"width": "4",
+		"height":"4"
+	},
+	{
+		"motive": "xksp_voyage",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "xksp_windmill",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "jakob_0_autumn_woods"
+	},
+	{
+		"motive": "jakob_0_autumn_woods_2",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "jakob_0_autumn_woods_3",
+		"width": "1",
+		"height":"2"
+	},
+	{
+		"motive": "jakob_0_autumn_woods_4",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "jakob_0_cave",
+		"width": "4",
+		"height":"4"
+	},
+	{
+		"motive": "jakob_0_cave_2",
+		"width": "4",
+		"height":"3"
+	},
+	{
+		"motive": "jakob_0_cave_entrance",
+		"width": "4",
+		"height":"2"
+	},
+	{
+		"motive": "jakob_0_cave_flowers",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "jakob_0_cavern",
+		"width": "4",
+		"height":"4"
+	},
+	{
+		"motive": "jakob_0_el_dorado",
+		"width": "4",
+		"height":"3"
+	},
+	{
+		"motive": "jakob_0_flower"
+	},
+	{
+		"motive": "jakob_0_flower_2",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "jakob_0_forest"
+	},
+	{
+		"motive": "jakob_0_forest_cliff"
+	},
+	{
+		"motive": "jakob_0_forest_cliff_2",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "jakob_0_golem",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "jakob_0_great_temple",
+		"width": "4",
+		"height":"4"
+	},
+	{
+		"motive": "jakob_0_lava_sea",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "jakob_0_moyai",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "jakob_0_moyai_2",
+		"width": "4",
+		"height":"4"
+	},
+	{
+		"motive": "jakob_0_mushroom",
+		"width": "2",
+		"height":"1"
+	},
+	{
+		"motive": "jakob_0_plants"
+	},
+	{
+		"motive": "jakob_0_temple",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "jakob_0_vines"
+	},
+	{
+		"motive": "jakob_0_vines_2"
+	},
+	{
+		"motive": "jakob_0_vines_3",
+		"width": "1",
+		"height":"2"
+	},
+	{
+		"motive": "jakob_0_waterfall",
+		"width": "1",
+		"height":"2"
+	},
+	{
+		"motive": "sugarcube_arched_bridge",
+		"width": "2",
+		"height":"2"
+	},
+	{
+		"motive": "sugarcube_butterfly"
+	},
+	{
+		"motive": "sugarcube_chalkboard"
+	},
+{
+		"motive": "sugarcube_clipboards"
+	},
+{
+		"motive": "sugarcube_flower_pot",
+		"width": "1",
+		"height":"2"
+	},
+{
+		"motive": "sugarcube_flower_wall",
+		"width": "1",
+		"height":"2"
+	},
+{
+		"motive": "sugarcube_hanging_flowers",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "sugarcube_lonely_tree",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "sugarcube_lush",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "sugarcube_main_menu",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "sugarcube_mirror"
+	},
+{
+		"motive": "sugarcube_monet_sunrise",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "sugarcube_mushrooms"
+	},
+{
+		"motive": "sugarcube_pack_png",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "sugarcube_shelves"
+	},
+{
+		"motive": "sugarcube_shelves_2"
+	},
+{
+		"motive": "sugarcube_starlit_bridge",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "sugarcube_task_board",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "sugarcube_tool_rack",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "junmcquack_animal"
+	},
+{
+		"motive": "junmcquack_aspens",
+		"width": "4",
+		"height":"4"
+	},
+{
+		"motive": "junmcquack_aspens_2",
+		"width": "4",
+		"height":"3"
+	},
+{
+		"motive": "junmcquack_butterfly",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "junmcquack_butterfly_2",
+		"width": "4",
+		"height":"2"
+	},
+{
+		"motive": "junmcquack_conifer",
+		"width": "1",
+		"height":"2"
+	},
+{
+		"motive": "junmcquack_conifer_2",
+		"width": "1",
+		"height":"2"
+	},
+{
+		"motive": "junmcquack_flora",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "junmcquack_flowers_2",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "junmcquack_flowers_3"
+	},
+{
+		"motive": "junmcquack_forest",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "junmcquack_fruit"
+	},
+{
+		"motive": "junmcquack_fruit_2"
+	},
+{
+		"motive": "junmcquack_lillies",
+		"width": "4",
+		"height":"4"
+	},
+{
+		"motive": "junmcquack_lillies_2",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "junmcquack_sunset",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "junmcquack_sunset_2",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "junmcquack_sunset_3",
+		"width": "4",
+		"height":"4"
+	},
+{
+		"motive": "junmcquack_winter",
+		"width": "4",
+		"height":"3"
+	},
+{
+		"motive": "mazarin_character_scene",
+		"width": "4",
+		"height":"3"
+	},
+{
+		"motive": "mazarin_character_scene_2",
+		"width": "4",
+		"height":"2"
+	},
+{
+		"motive": "mazarin_cityscape",
+		"width": "4",
+		"height":"4"
+	},
+{
+		"motive": "mazarin_french_navy",
+		"width": "4",
+		"height":"4"
+	},
+{
+		"motive": "mazarin_landscape"
+	},
+{
+		"motive": "mazarin_landscape_2"
+	},
+{
+		"motive": "mazarin_landscape_3",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "mazarin_landscape_4",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "mazarin_landscape_5",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "mazarin_landscape_6",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "mazarin_landscape_7",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "mazarin_landscape_8",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "mazarin_landscape_9",
+		"width": "4",
+		"height":"3"
+	},
+{
+		"motive": "mazarin_noidea"
+	},
+{
+		"motive": "mazarin_portrait"
+	},
+{
+		"motive": "mazarin_portrait_2"
+	},
+{
+		"motive": "mazarin_portrait_3",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "mazarin_portrait_4",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "mazarin_portrait_5",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "mazarin_portrait_6",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "mazarin_portrait_7",
+		"width": "1",
+		"height":"2"
+	},
+{
+		"motive": "mazarin_starry_night",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "mazarin_still_life"
+	},
+{
+		"motive": "mazarin_still_life_2",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "mazarin_still_life_3"
+	},
+{
+		"motive": "mazarin_white_horse",
+		"width": "4",
+		"height":"4"
+	},
+{
+		"motive": "mazarin_world_map",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "ottonien_bottles",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "ottonien_cursed_mountain",
+		"width": "4",
+		"height":"3"
+	},
+{
+		"motive": "ottonien_dunes",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "ottonien_forested_kingdom",
+		"width": "4",
+		"height":"3"
+	},
+{
+		"motive": "ottonien_hazy_castle",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "ottonien_lilypads",
+		"width": "2",
+		"height":"2"
+	},
+{
+		"motive": "ottonien_mountain_peak"
+	},
+{
+		"motive": "ottonien_octopus"
+	},
+{
+		"motive": "ottonien_ruined_tower",
+		"width": "4",
+		"height":"4"
+	},
+{
+		"motive": "ottonien_snowy_night",
+		"width": "4",
+		"height":"4"
+	},
+{
+		"motive": "ottonien_statue"
+	},
+{
+		"motive": "ottonien_twilight_woods",
+		"width": "2",
+		"height":"1"
+	},
+{
+		"motive": "ottonien_waterfall_keep",
+		"width": "4",
+		"height":"4"
+	},
+{
+		"motive": "blaholtz_great_hall",
+		"width": "4",
+		"height":"2"
+	}
+]

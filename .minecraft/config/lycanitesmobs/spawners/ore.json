@@ -1,0 +1,53 @@
+{
+  "name": "ore",
+  "type": "spawner",
+  "enabled": true,
+  "loadDefault": false,
+  "mobCountMin": 1,
+  "ignoreDimensions": false,
+  "ignoreBiomes": true,
+  "ignoreCollision": true,
+  "ignoreLightLevel": true,
+  "ignoreGroupLimit": true,
+  "ignoreForgeCanSpawnEvent": true,
+  "blockBreakRadius": 1,
+  "conditions": [
+      {
+      "type": "world",
+      "dimensionIds": [
+        10
+      ]
+    }
+  ],
+  "triggers": [
+    {
+      "type": "ore",
+      "onHarvest": false,
+      "ores": true,
+      "gems": false,
+      "chance": 0.02
+    }
+  ],
+  "locations": [
+    {
+      "type": "base",
+      "rangeMin": [
+        0,
+        0,
+        0
+      ],
+      "rangeMax": [
+        0,
+        0,
+        0
+      ],
+      "sorting": "random"
+    }
+  ],
+  "mobSpawns": [
+    {
+      "mobId": "lycanitesmobs:geonach",
+      "weight": 8
+    }
+  ]
+}

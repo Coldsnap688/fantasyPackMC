@@ -1,0 +1,10 @@
+[
+	"motive": "example",
+	"width": "default_is_1x1",
+	"height":"optional",
+	"textures":{
+		"front": "default_is_motive_name",
+		"back": "optional",
+		"side":"optional"
+	}
+]

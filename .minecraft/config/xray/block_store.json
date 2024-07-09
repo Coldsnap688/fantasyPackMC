@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Nether Quart",
+    "stateString": "minecraft:quartz_ore",
+    "stateId": 153,
+    "order": 6,
+    "color": {
+      "r": 30,
+      "g": 74,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Devoritium Ore",
+    "stateString": "ancientspellcraft:devoritium_ore",
+    "stateId": 4276,
+    "order": 9,
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "drawing": true
+  },
+  {
+    "name": "Fiery Crystal Ore",
+    "stateString": "ancientspellcraft:crystal_ore_fire",
+    "stateId": 4274,
+    "order": 13,
+    "color": {
+      "r": 255,
+      "g": 160,
+      "b": 80
+    },
+    "drawing": true
+  },
+  {
+    "name": "Crystal Silver Ore",
+    "stateString": "ancientspellcraft:crystal_silver_ore",
+    "stateId": 4272,
+    "order": 11,
+    "color": {
+      "r": 255,
+      "g": 128,
+      "b": 255
+    },
+    "drawing": true
+  },
+  {
+    "name": "Radiant Crystal Ore",
+    "stateString": "ancientspellcraft:crystal_ore_healing",
+    "stateId": 4276,
+    "order": 14,
+    "color": {
+      "r": 0,
+      "g": 166,
+      "b": 255
+    },
+    "drawing": true
+  },
+  {
+    "name": "Coal Ore",
+    "stateString": "minecraft:coal_ore",
+    "stateId": 16,
+    "order": 1,
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Lapis",
+    "stateString": "minecraft:lapis_ore",
+    "stateId": 21,
+    "order": 7,
+    "color": {
+      "r": 0,
+      "g": 0,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Diamond Ore",
+    "stateString": "minecraft:diamond_ore",
+    "stateId": 56,
+    "order": 4,
+    "color": {
+      "r": 136,
+      "g": 136,
+      "b": 255
+    },
+    "drawing": false
+  },
+  {
+    "name": "Verdant Crystal Ore",
+    "stateString": "ancientspellcraft:crystal_ore_earth",
+    "stateId": 4275,
+    "order": 15,
+    "color": {
+      "r": 0,
+      "g": 173,
+      "b": 97
+    },
+    "drawing": true
+  },
+  {
+    "name": "Dark Crystal Ore",
+    "stateString": "ancientspellcraft:crystal_ore_necromancy",
+    "stateId": 4270,
+    "order": 12,
+    "color": {
+      "r": 0,
+      "g": 255,
+      "b": 0
+    },
+    "drawing": true
+  },
+  {
+    "name": "Gold Ore",
+    "stateString": "minecraft:gold_ore",
+    "stateId": 14,
+    "order": 2,
+    "color": {
+      "r": 255,
+      "g": 255,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Redstone Ore",
+    "stateString": "minecraft:redstone_ore",
+    "stateId": 73,
+    "order": 3,
+    "color": {
+      "r": 255,
+      "g": 0,
+      "b": 0
+    },
+    "drawing": false
+  },
+  {
+    "name": "Iron Ore",
+    "stateString": "minecraft:iron_ore",
+    "stateId": 15,
+    "order": 0,
+    "color": {
+      "r": 170,
+      "g": 117,
+      "b": 37
+    },
+    "drawing": false
+  },
+  {
+    "name": "Emerald Ore",
+    "stateString": "minecraft:emerald_ore",
+    "stateId": 129,
+    "order": 5,
+    "color": {
+      "r": 0,
+      "g": 136,
+      "b": 10
+    },
+    "drawing": false
+  },
+  {
+    "name": "Astral Diamond Ore",
+    "stateString": "ancientspellcraft:astral_diamond_ore",
+    "stateId": 4273,
+    "order": 10,
+    "color": {
+      "r": 120,
+      "g": 180,
+      "b": 255
+    },
+    "drawing": true
+  }
+]

@@ -1,0 +1,40 @@
+#loader contenttweaker
+
+import mods.contenttweaker.VanillaFactory;
+import mods.contenttweaker.Fluid;
+import mods.contenttweaker.Color;
+import crafttweaker.game.IGame;
+
+var hccherryso = VanillaFactory.createFluid("hccherrysoda", Color.fromHex("8D1825"));
+	  hccherryso.register();
+		#game.setLocalization(hccherryso,"Cherry Soda");
+var hccolaso = VanillaFactory.createFluid("hccolasoda", Color.fromHex("554022"));
+	  hccolaso.register();
+		#game.setLocalization(hccolaso,"Cola Soda");
+var hcgrapeso = VanillaFactory.createFluid("hcgrapesoda", Color.fromHex("511986"));
+	  hcgrapeso.register();
+		#game.setLocalization(hcgrapeso,"Grape Soda");
+var hcgrapefruitso = VanillaFactory.createFluid("hcgrapefruitsoda", Color.fromHex("9D5201"));
+	  hcgrapefruitso.register();
+		#game.setLocalization(hcgrapefruitso,"Grapefruit Soda");
+var hcgingeraleso = VanillaFactory.createFluid("hcgingeralesoda", Color.fromHex("896832"));
+	  hcgingeraleso.register();
+		#game.setLocalization(hcgingeraleso,"Ginger Ale");
+var hclemonlimeso = VanillaFactory.createFluid("hclemonlimesoda", Color.fromHex("6D982D"));
+	  hclemonlimeso.register();
+		#game.setLocalization(hclemonlimeso,"Lemon-lime Soda");
+var hcorangeso = VanillaFactory.createFluid("hcorangesoda", Color.fromHex("B1681A"));
+	  hcorangeso.register();
+		#game.setLocalization(hcorangeso,"Orange Soda");
+var hcrootbeerso = VanillaFactory.createFluid("hcrootbeersoda", Color.fromHex("613016"));
+	  hcrootbeerso.register();
+		#game.setLocalization(hcrootbeerso,"Root Beer");
+var hcstrawberryso = VanillaFactory.createFluid("hcstrawberrysoda", Color.fromHex("8E2B43"));
+	  hcstrawberryso.register();
+		#game.setLocalization(hcstrawberryso,"Strawberry Soda");
+var hcenergydrinkso = VanillaFactory.createFluid("hcenergydrink", Color.fromHex("FCD373"));
+	  hcenergydrinkso.register();
+		#game.setLocalization(hcenergydrinkso,"Energy Drink");
+var hcironbrewso = VanillaFactory.createFluid("hcironbrew", Color.fromHex("F58100"));
+	  hcironbrewso.register();
+		#game.setLocalization(hcironbrewso,"Iron Brew");

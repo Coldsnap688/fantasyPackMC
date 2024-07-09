@@ -1,0 +1,27 @@
+{
+	"version": "2.0",
+	"spawns": {
+		"amethyst_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [],
+			"biomes": {
+				"includes": [ "SWAMP" ]
+			},
+			"parameters": {
+				"size": 5,
+				"numObjects": 2,
+				"minHeight": 5,
+				"maxHeight": 32
+			},
+			"blocks": [
+				{
+					"name": "mysticalworld:amethyst_ore",
+					"chance": 100
+				}
+			]
+		}
+	}
+}

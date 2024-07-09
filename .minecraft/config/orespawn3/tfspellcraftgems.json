@@ -1,0 +1,199 @@
+{
+	"version": "2.0",
+	"spawns": {
+		"tf_crystal_ore_fire": {
+            "retrogen": false,
+            "enabled": true,
+            "feature": "default",
+            "replaces": "default",
+            "dimensions": [7],
+            "biomes": { "includes": [
+				"twilightforest:fire_swamp",
+				"twilightforest:firefly_forest",
+				"twilightforest:oak_savannah"
+			] },
+            "parameters": {
+		"size": 4,
+                "variation": 4,
+                "frequency": 2,
+                "minHeight": 5,
+                "maxHeight": 30
+            },
+	    "blocks": [ { "name": "ancientspellcraft:crystal_ore_fire", "chance": 100 } ]
+        },
+		"tf_crystal_ore_earth": {
+            "retrogen": false,
+            "enabled": true,
+            "feature": "default",
+            "replaces": "default",
+            "dimensions": [7],
+            "biomes": { "includes": [
+				"twilightforest:dark_forest",
+				"twilightforest:twilight_forest",
+				"twilightforest:mushroom_forest"
+			]},
+            "parameters": {
+		"size": 4,
+                "variation": 4,
+                "frequency": 2,
+                "minHeight": 5,
+                "maxHeight": 30
+            },
+	    "blocks": [ { "name": "ancientspellcraft:crystal_ore_earth", "chance": 100 } ]
+        },
+		"tf_crystal_ore_healing": {
+            "retrogen": false,
+            "enabled": true,
+            "feature": "default",
+            "replaces": "default",
+            "dimensions": [7],
+            "biomes": { "includes": [
+				"twilightforest:deep_mushroom_forest",
+				"twilightforest:dense_twilight_forest",
+				"twilightforest:dark_forest_center"
+			]},
+            "parameters": {
+		"size": 4,
+                "variation": 4,
+                "frequency": 2,
+                "minHeight": 5,
+                "maxHeight": 30
+            },
+	    "blocks": [ { "name": "ancientspellcraft:crystal_ore_healing", "chance": 100 } ]
+        },
+		"tf_crystal_ore_ice": {
+            "retrogen": false,
+            "enabled": true,
+            "feature": "default",
+            "replaces": "default",
+            "dimensions": [7],
+            "biomes": { "includes": [
+				"twilightforest:snowy_forest",
+				"twilightforest:twilight_glacier"
+			] },
+            "parameters": {
+		"size": 4,
+                "variation": 4,
+                "frequency": 2,
+                "minHeight": 5,
+                "maxHeight": 30
+            },
+	    "blocks": [ { "name": "ancientspellcraft:crystal_ore_ice", "chance": 100 } ]
+        },
+		"tf_crystal_ore_lightning": {
+            "retrogen": false,
+            "enabled": true,
+            "feature": "default",
+            "replaces": "default",
+            "dimensions": [7],
+            "biomes": { "includes": [
+				"twilightforest:twilight_highlands",
+				"twilightforest:highlands_center"
+			] },
+            "parameters": {
+		"size": 4,
+                "variation": 4,
+                "frequency": 2,
+                "minHeight": 5,
+                "maxHeight": 30
+            },
+	    "blocks": [ { "name": "ancientspellcraft:crystal_ore_lightning", "chance": 100 } ]
+        },
+		"tf_crystal_ore_necromancy": {
+            "retrogen": false,
+            "enabled": true,
+            "feature": "default",
+            "replaces": "default",
+            "dimensions": [7],
+            "biomes": { "includes": [
+				"twilightforest:thornlands",
+				"twilightforest:spooky_forest"
+			] },
+            "parameters": {
+		"size": 4,
+                "variation": 4,
+                "frequency": 2,
+                "minHeight": 5,
+                "maxHeight": 30
+            },
+	    "blocks": [ { "name": "ancientspellcraft:crystal_ore_necromancy", "chance": 100 } ]
+        },
+		"tf_crystal_ore_sorcery": {
+            "retrogen": false,
+            "enabled": true,
+            "feature": "default",
+            "replaces": "default",
+            "dimensions": [7],
+            "biomes": { "includes": [
+				"twilightforest:twilight_clearing",
+				"twilightforest:enchanted_forest"
+			] },
+            "parameters": {
+		"size": 4,
+                "variation": 4,
+                "frequency": 2,
+                "minHeight": 5,
+                "maxHeight": 30
+            },
+	    "blocks": [ { "name": "ancientspellcraft:crystal_ore_sorcery", "chance": 100 } ]
+        },
+		"tf_astral_diamond_ore": {
+			"retrogen": false,
+			"enabled": true,
+			"feature": "default",
+			"replaces": "default",
+			"dimensions": [],
+			"biomes": { "includes": [
+				"twilightforest:twilight_lake"
+			] },
+			"parameters": {
+				"size": 3,
+				"numObjects": 2,
+				"minHeight": 5,
+				"maxHeight": 15
+			},
+			"blocks": [
+				{
+					"name": "ancientspellcraft:astral_diamond_ore",
+					"chance": 100
+				}
+			]
+		},
+		"tf_devoritium_ore": {
+            "retrogen": false,
+            "enabled": true,
+            "feature": "default",
+            "replaces": "default",
+            "dimensions": [7],
+            "biomes": { "includes": [
+			"twilightforest:twilight_stream"
+			] },
+            "parameters": {
+		"size": 3,
+                "variation": 4,
+                "frequency": 3,
+                "minHeight": 5,
+                "maxHeight": 30
+            },
+	    "blocks": [ { "name": "ancientspellcraft:devoritium_ore", "chance": 100 } ]
+        },
+		"tf_crystal_silver_ore": {
+            "retrogen": false,
+            "enabled": true,
+            "feature": "default",
+            "replaces": "default",
+            "dimensions": [7],
+            "biomes": { "includes": [
+				"twilightforest:twilight_swamp"
+			] },
+            "parameters": {
+		"size": 3,
+                "variation": 4,
+                "frequency": 3,
+                "minHeight": 5,
+                "maxHeight": 20
+            },
+	    "blocks": [ { "name": "ancientspellcraft:crystal_silver_ore", "chance": 100 } ]
+        }
+	}
+}
