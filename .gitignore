@@ -19,11 +19,16 @@
 natives/
 
 # Ignored Files
+# TO DO: change root folder to be .minecraft? Moves all files up a directory
+.packignore
+instance.cfg
+mmc-pack.json
 .minecraft/*.dat
 .minecraft/*.ini
 .minecraft/*.json
 .minecraft/*.log
 .minecraft/*.png
 .minecraft/*.txt
+.minecraft/config/*.dat
 
 # Clientside Configs to Ignore (WIP)
