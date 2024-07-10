@@ -9,4 +9,5 @@ import crafttweaker.world.IWorld;
 <ore:listAlljuice>.add(<rustic:fluid_bottle>.withTag({Fluid: {FluidName: "applejuice", Amount: 1000}}));
 <ore:flower>.add(<rustic:blood_orchid>);
 <ore:flower>.add(<rustic:chamomile>);
+<ore:flower>.add(<rustic:cohosh>);
 <ore:flower>.add(<rustic:wind_thistle>);
