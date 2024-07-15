@@ -4,13 +4,13 @@ import crafttweaker.oredict.IOreDictEntry;
 import crafttweaker.world.IWorld;
 // Mod Tinkers Construct
 
-//Recipes Removal Shapeless
+// Recipes Removal Shapeless
 recipes.removeByRecipeName("tconstruct:tools/materials/silky_cloth");
 recipes.removeByRecipeName("tconstruct:tools/materials/silky_jewel");
-//Recipes Removals Furnace
+// Recipes Removals Furnace
 furnace.remove(<tconstruct:materials:0>);
-//Recipes Additions Shapeless
-//Recipes Additions Shaped
+// Recipes Additions Shapeless
+// Recipes Additions Shaped
 recipes.addShaped("Silky_Cloth",<tconstruct:materials:15>,[
     [<dawnoftimebuilder:silk>, <dawnoftimebuilder:silk>, <dawnoftimebuilder:silk>],
     [<dawnoftimebuilder:silk>, <ebwizardry:magic_silk>, <dawnoftimebuilder:silk>],
@@ -56,3 +56,5 @@ recipes.addShaped("Silky_Jewel7",<tconstruct:materials:16>,[
     [<tconstruct:materials:15>, <biomesoplenty:gem:7>, <tconstruct:materials:15>],
     [null, <tconstruct:materials:15>, null]
 	]);
+// Recipes Additions Melting
+mods.tconstruct.Melting.addRecipe(<liquid:molten_ignatius_fuel> * 1000, <metallurgy:ignatius_fuel>, 800);

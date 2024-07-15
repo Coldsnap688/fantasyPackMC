@@ -25,3 +25,6 @@ mods.tconstruct.Fuel.registerFuel(thermite * 50, 300);
 val octine = <liquid:molten_octine>.definition;
 octine.temperature = 1200;
 mods.tconstruct.Fuel.registerFuel(octine * 144, 300);
+#T4
+#T5
+mods.tconstruct.Fuel.registerFuel(<liquid:molten_ignatius_fuel> * 50, 300);
