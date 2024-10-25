@@ -290,6 +290,18 @@ recipes.addShaped("Silky_Jewel7",<tconstruct:materials:16>,[
 // Recipes Additions Melting
 // add recipe to create molten infused ignatius
 mods.tconstruct.Melting.addRecipe(<liquid:molten_ignatius_fuel> * 1000, <metallurgy:ignatius_fuel>, 800);
+// add recipes to melt casts into aluminum brass
+val tier3MeltTemp = 1200;
+val twoIngotMillibuckets = 2 * 144;
+mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * twoIngotMillibuckets, <tconstruct:cast>, tier3MeltTemp);
+for i, partTypeStr in allPartTypeStringArray {
+    mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * twoIngotMillibuckets, <tconstruct:cast>.withTag({PartType: partTypeStr}), tier3MeltTemp);
+}
+mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * twoIngotMillibuckets, <tconstruct:cast_custom>, tier3MeltTemp);
+mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * twoIngotMillibuckets, <tconstruct:cast_custom:1>, tier3MeltTemp);
+mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * twoIngotMillibuckets, <tconstruct:cast_custom:2>, tier3MeltTemp);
+mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * twoIngotMillibuckets, <tconstruct:cast_custom:3>, tier3MeltTemp);
+mods.tconstruct.Melting.addRecipe(<liquid:alubrass> * twoIngotMillibuckets, <tconstruct:cast_custom:4>, tier3MeltTemp);
 
 // Recipes Additions Casting
 // add recipe for casting molds with clay without consuming part used as cast
