@@ -6,7 +6,10 @@ import crafttweaker.world.IWorld;
 //Recipes Additions
 
 //Juices
-recipes.addShapeless("ApricotJuice", <harvestcraft:apricotjuiceitem>,
+
+recipes.addShapeless("Apple Juice", <harvestcraft:applejuiceitem>,
+ [<harvestcraft:juiceritem>, <ore:cropApple>, <ore:cropApple>, <minecraft:glass_bottle>]);
+recipes.addShapeless("Apricot Juice", <harvestcraft:apricotjuiceitem>,
  [<harvestcraft:juiceritem>, <ore:cropApricot>, <ore:cropApricot>, <minecraft:glass_bottle>]);
 recipes.addShapeless("Blackberry Juice", <harvestcraft:blackberryjuiceitem>,
  [<harvestcraft:juiceritem>, <ore:cropBlackberry>, <ore:cropBlackberry>, <minecraft:glass_bottle>]);
@@ -14,6 +17,8 @@ recipes.addShapeless("Blueberry Juice", <harvestcraft:blueberryjuiceitem>,
  [<harvestcraft:juiceritem>, <ore:cropBlueberry>, <ore:cropBlueberry>, <minecraft:glass_bottle>]);
 recipes.addShapeless("Cactus Fruit Juice", <harvestcraft:cactusfruitjuiceitem>,
  [<harvestcraft:juiceritem>,<ore:cropCactusfruit>, <ore:cropCactusfruit>, <minecraft:glass_bottle>]);
+ recipes.addShapeless("Carrot Juice", <harvestcraft:carrotjuiceitem>,
+ [<harvestcraft:juiceritem>, <ore:cropCarrot>, <ore:cropCarrot>, <minecraft:glass_bottle>]);
 recipes.addShapeless("Cherry Juice", <harvestcraft:cherryjuiceitem>,
  [<harvestcraft:juiceritem>, <ore:cropCherry>, <ore:cropCherry>, <minecraft:glass_bottle>]);
 recipes.addShapeless("Cranberry Juice", <harvestcraft:cranberryjuiceitem>,
@@ -28,6 +33,8 @@ recipes.addShapeless("Lime Juice", <harvestcraft:limejuiceitem>,
  [<harvestcraft:juiceritem>, <ore:cropLime>, <ore:cropLime>, <minecraft:glass_bottle>]);
 recipes.addShapeless("Mango Juice", <harvestcraft:mangojuiceitem>,
  [<harvestcraft:juiceritem>, <ore:cropMango>, <ore:cropMango>, <minecraft:glass_bottle>]);
+recipes.addShapeless("Melon Juice", <harvestcraft:melonjuiceitem>,
+ [<harvestcraft:juiceritem>, <ore:cropMelon>, <ore:cropMelon>, <minecraft:glass_bottle>]);
 recipes.addShapeless("Orange Juice", <harvestcraft:orangejuiceitem>,
  [<harvestcraft:juiceritem>, <ore:cropOrange>, <ore:cropOrange>, <minecraft:glass_bottle>]);
 recipes.addShapeless("Papaya Juice", <harvestcraft:papayajuiceitem>,
@@ -194,8 +201,20 @@ recipes.addShaped("steelglasspam", <desertcraft:pamglasssteel>,
  [<ore:blockSteel>,<ore:blockGlass>,<ore:blockSteel>],
  [<ore:ingotSteel>,<ore:blockSteel>,<ore:ingotSteel>]
 ]);
-
+//Saddle
+recipes.addShaped("harvestcrafSaddle", <minecraft:saddle>,
+[
+ [null,null,null],
+ [<harvestcraft:hardenedleatheritem>, <harvestcraft:hardenedleatheritem>, <harvestcraft:hardenedleatheritem>],
+ [<harvestcraft:hardenedleatheritem>, <ore:string>, <harvestcraft:hardenedleatheritem>]
+]);
+//Toe of Frog
+recipes.addShapeless("toeOfFrogHC", <bewitchment:toe_of_frog>*4,
+ [<harvestcraft:frograwitem>]);
 //Recipes Removals
+
+//Bread
+recipes.removeByRecipeName("harvestcraft:minecraft_bread");
 
 //String
 recipes.removeByRecipeName("harvestcraft:string_listallfiber");
@@ -304,3 +323,8 @@ recipes.removeByRecipeName("harvestcraft:clamchowderitem_one");
 recipes.removeByRecipeName("harvestcraft:clamchowderitem_two");
 recipes.removeByRecipeName("harvestcraft:mobsoupitem");
 recipes.removeByRecipeName("harvestcraft:minerstewitem");
+//Armor
+recipes.removeByRecipeName("harvestcraft:hardenedleatherhelmitem");
+recipes.removeByRecipeName("harvestcraft:hardenedleatherchestitem");
+recipes.removeByRecipeName("harvestcraft:hardenedleatherleggingsitem");
+recipes.removeByRecipeName("harvestcraft:hardenedleatherbootsitem");

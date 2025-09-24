@@ -13,6 +13,13 @@ recipes.addShaped("atumwheel", <atum:spinning_wheel>,
  [<ore:plankWood>,<mysticalworld:spindle>,<ore:plankWood>]
 ]);
 
+recipes.addShaped("spindlelinenthread", <atum:linen_thread> * 2,
+[
+ [<ore:cropFlax>,<ore:cropFlax>,<ore:cropFlax>],
+ [<ore:cropFlax>,<mysticalworld:spindle>.anyDamage().transformDamage(),<ore:cropFlax>],
+ [<ore:cropFlax>,<ore:cropFlax>,<ore:cropFlax>]
+]);
+
 recipes.addShaped("spindlelinencloth", <atum:linen_cloth>,
 [
  [<atum:linen_thread>,<atum:linen_thread>,<atum:linen_thread>],
@@ -53,3 +60,23 @@ mods.atum.SpinningWheel.removeRecipe("atum:flax");
 recipes.removeByRecipeName("atum:spinning_wheel");
 recipes.removeByRecipeName("atum:spinning_wheel_2");
 recipes.removeByRecipeName("atum:linen_cloth");
+//Removing armor recipes (moving em to the Smithing Table)
+recipes.removeByRecipeName("atum:desert_helmet_iron");
+recipes.removeByRecipeName("atum:desert_chestplate_iron");
+recipes.removeByRecipeName("atum:desert_legs_iron");
+recipes.removeByRecipeName("atum:desert_boots_iron");
+
+recipes.removeByRecipeName("atum:desert_helmet_gold");
+recipes.removeByRecipeName("atum:desert_chestplate_gold");
+recipes.removeByRecipeName("atum:desert_legs_gold");
+recipes.removeByRecipeName("atum:desert_boots_gold");
+
+recipes.removeByRecipeName("atum:desert_helmet_diamond");
+recipes.removeByRecipeName("atum:desert_chestplate_diamond");
+recipes.removeByRecipeName("atum:desert_legs_diamond");
+recipes.removeByRecipeName("atum:desert_boots_diamond");
+
+recipes.removeByRecipeName("atum:mummy_helmet");
+recipes.removeByRecipeName("atum:mummy_chestplate");	
+recipes.removeByRecipeName("atum:mummy_legs");
+recipes.removeByRecipeName("atum:mummy_boots");

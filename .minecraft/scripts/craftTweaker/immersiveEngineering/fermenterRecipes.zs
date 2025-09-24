@@ -13,7 +13,6 @@ import crafttweaker.liquid.ILiquidDefinition;
 val ethanolBerries = [
 <aether_legacy:blue_berry>,
 <biomesoplenty:berries>,
-<comfycozy:strawberry>,
 <futuremc:sweet_berries>,
 <harvestcraft:blackberryitem>,
 <harvestcraft:blueberryitem>,
@@ -61,7 +60,6 @@ val ethanolFruitandVeggies =
 <biomesoplenty:persimmon>,
 <chococraftplus:veg_pasana>,
 <chococraftplus:veg_mimett>,
-<comfycozy:peach>,
 <harvestcraft:papayaitem>,
 <harvestcraft:dateitem>,
 <harvestcraft:pineappleitem>,

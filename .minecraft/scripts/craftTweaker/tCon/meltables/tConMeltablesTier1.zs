@@ -49,7 +49,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:angmallen> * 1296,<metallurgy:angmalle
 mods.tconstruct.Melting.addRecipe(<liquid:angmallen> * 432,<metallurgy:angmallen_boots>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:angmallen> * 432,<metallurgy:angmallen_chestplate>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:angmallen> * 144,<metallurgy:angmallen_dust>,400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:angmallen> * 432,<metallurgy:angmallen_engraved_block>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:angmallen> * 432,<metallurgy:angmallen_helmet>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:angmallen> * 288,<metallurgy:angmallen_hoe>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:angmallen> * 144,<metallurgy:angmallen_ingot>,400);
@@ -101,7 +100,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:bronze> * 1296,<metallurgy:bronze_bloc
 mods.tconstruct.Melting.addRecipe(<liquid:bronze> * 432,<metallurgy:bronze_boots>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:bronze> * 432,<metallurgy:bronze_chestplate>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:bronze> * 144,<metallurgy:bronze_dust>,400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:bronze> * 432,<metallurgy:bronze_engraved_block>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:bronze> * 432,<metallurgy:bronze_helmet>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:bronze> * 288,<metallurgy:bronze_hoe>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:bronze> * 144,<metallurgy:bronze_ingot>,400);
@@ -153,7 +151,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:copper> * 1296,<metallurgy:copper_bloc
 mods.tconstruct.Melting.addRecipe(<liquid:copper> * 432,<metallurgy:copper_boots>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:copper> * 432,<metallurgy:copper_chestplate>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:copper> * 144,<metallurgy:copper_dust>,400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:copper> * 432,<metallurgy:copper_engraved_block>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:copper> * 432,<metallurgy:copper_helmet>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:copper> * 288,<metallurgy:copper_hoe>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:copper> * 144,<metallurgy:copper_ingot>,400);
@@ -208,7 +205,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:electrum> * 1296,<metallurgy:electrum_
 mods.tconstruct.Melting.addRecipe(<liquid:electrum> * 432,<metallurgy:electrum_boots>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:electrum> * 432,<metallurgy:electrum_chestplate>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:electrum> * 144,<metallurgy:electrum_dust>,400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:electrum> * 432,<metallurgy:electrum_engraved_block>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:electrum> * 432,<metallurgy:electrum_helmet>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:electrum> * 288,<metallurgy:electrum_hoe>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:electrum> * 144,<metallurgy:electrum_ingot>,400);
@@ -312,7 +308,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:silver> * 1296,<metallurgy:silver_bloc
 mods.tconstruct.Melting.addRecipe(<liquid:silver> * 432,<metallurgy:silver_boots>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:silver> * 432,<metallurgy:silver_chestplate>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:silver> * 144,<metallurgy:silver_dust>,400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:silver> * 432,<metallurgy:silver_engraved_block>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:silver> * 432,<metallurgy:silver_helmet>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:silver> * 288,<metallurgy:silver_hoe>,400);
 mods.tconstruct.Melting.addRecipe(<liquid:silver> * 144,<metallurgy:silver_ingot>,400);

@@ -49,7 +49,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:amordrine> * 1296,<metallurgy:amordrin
 mods.tconstruct.Melting.addRecipe(<liquid:amordrine> * 432,<metallurgy:amordrine_boots>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:amordrine> * 432,<metallurgy:amordrine_chestplate>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:amordrine> * 144,<metallurgy:amordrine_dust>,2400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:amordrine> * 432,<metallurgy:amordrine_engraved_block>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:amordrine> * 432,<metallurgy:amordrine_helmet>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:amordrine> * 288,<metallurgy:amordrine_hoe>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:amordrine> * 144,<metallurgy:amordrine_ingot>,2400);
@@ -179,7 +178,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:ceruclase> * 1296,<metallurgy:ceruclas
 mods.tconstruct.Melting.addRecipe(<liquid:ceruclase> * 432,<metallurgy:ceruclase_boots>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:ceruclase> * 432,<metallurgy:ceruclase_chestplate>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:ceruclase> * 144,<metallurgy:ceruclase_dust>,2400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:ceruclase> * 432,<metallurgy:ceruclase_engraved_block>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:ceruclase> * 432,<metallurgy:ceruclase_helmet>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:ceruclase> * 288,<metallurgy:ceruclase_hoe>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:ceruclase> * 144,<metallurgy:ceruclase_ingot>,2400);
@@ -231,7 +229,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:gold> * 1296,<minecraft:gold_block>,24
 mods.tconstruct.Melting.addRecipe(<liquid:gold> * 432,<minecraft:golden_boots>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:gold> * 432,<minecraft:golden_chestplate>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:gold> * 144,<metallurgy:gold_dust>,2400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:gold> * 432,<metallurgy:gold_engraved_block>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:gold> * 432,<minecraft:golden_helmet>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:gold> * 288,<minecraft:golden_hoe>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:gold> * 144,<minecraft:gold_ingot>,2400);
@@ -283,7 +280,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:ignatius> * 1296,<metallurgy:ignatius_
 mods.tconstruct.Melting.addRecipe(<liquid:ignatius> * 432,<metallurgy:ignatius_boots>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:ignatius> * 432,<metallurgy:ignatius_chestplate>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:ignatius> * 144,<metallurgy:ignatius_dust>,2400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:ignatius> * 432,<metallurgy:ignatius_engraved_block>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:ignatius> * 432,<metallurgy:ignatius_helmet>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:ignatius> * 288,<metallurgy:ignatius_hoe>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:ignatius> * 144,<metallurgy:ignatius_ingot>,2400);
@@ -379,7 +375,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:kalendrite> * 1296,<metallurgy:kalendr
 mods.tconstruct.Melting.addRecipe(<liquid:kalendrite> * 432,<metallurgy:kalendrite_boots>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:kalendrite> * 432,<metallurgy:kalendrite_chestplate>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:kalendrite> * 144,<metallurgy:kalendrite_dust>,2400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:kalendrite> * 432,<metallurgy:kalendrite_engraved_block>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:kalendrite> * 432,<metallurgy:kalendrite_helmet>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:kalendrite> * 288,<metallurgy:kalendrite_hoe>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:kalendrite> * 144,<metallurgy:kalendrite_ingot>,2400);
@@ -431,7 +426,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:midasium> * 1296,<metallurgy:midasium_
 mods.tconstruct.Melting.addRecipe(<liquid:midasium> * 432,<metallurgy:midasium_boots>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:midasium> * 432,<metallurgy:midasium_chestplate>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:midasium> * 144,<metallurgy:midasium_dust>,2400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:midasium> * 432,<metallurgy:midasium_engraved_block>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:midasium> * 432,<metallurgy:midasium_helmet>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:midasium> * 288,<metallurgy:midasium_hoe>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:midasium> * 144,<metallurgy:midasium_ingot>,2400);
@@ -448,7 +442,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:midasium> * 144,<rats:rat_nugget_ore:3
 val molten_meutoite = <liquid:meutoite>.definition;
 mods.tconstruct.Melting.removeRecipe(<liquid:meutoite>);
 mods.tconstruct.Melting.addRecipe(<liquid:meutoite> * 1296,<metallurgy:meutoite_block>,2400);
-mods.tconstruct.Melting.addRecipe(<liquid:meutoite> * 432,<metallurgy:meutoite_engraved_block>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:meutoite> * 144,<metallurgy:meutoite_ingot>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:meutoite> * 144,<metallurgy:meutoite_ore>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:meutoite> * 144,<rats:rat_nugget_ore:35>.withTag({OreItem: {id: "metallurgy:meutoite_ore", Count: 1 as byte, Damage: 0 as short}, IngotItem: {id: "metallurgy:meutoite_ingot", Count: 1 as byte, Damage: 0 as short}}),2400);
@@ -533,7 +526,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:platinum> * 1296,<metallurgy:platinum_
 mods.tconstruct.Melting.addRecipe(<liquid:platinum> * 432,<metallurgy:platinum_boots>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:platinum> * 432,<metallurgy:platinum_chestplate>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:platinum> * 144,<metallurgy:platinum_dust>,2400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:platinum> * 432,<metallurgy:platinum_engraved_block>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:platinum> * 432,<metallurgy:platinum_helmet>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:platinum> * 288,<metallurgy:platinum_hoe>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:platinum> * 144,<metallurgy:platinum_ingot>,2400);
@@ -550,7 +542,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:platinum> * 144,<rats:rat_nugget_ore:3
 val molten_rubracium = <liquid:rubracium>.definition;
 mods.tconstruct.Melting.removeRecipe(<liquid:rubracium>);
 mods.tconstruct.Melting.addRecipe(<liquid:rubracium> * 1296,<metallurgy:rubracium_block>,2400);
-mods.tconstruct.Melting.addRecipe(<liquid:rubracium> * 432,<metallurgy:rubracium_engraved_block>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:rubracium> * 144,<metallurgy:rubracium_ingot>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:rubracium> * 144,<metallurgy:rubracium_ore>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:rubracium> * 144,<metallurgy:rubracium_gauntlet>,2400);
@@ -604,7 +595,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:shadow_iron> * 1296,<metallurgy:shadow
 mods.tconstruct.Melting.addRecipe(<liquid:shadow_iron> * 432,<metallurgy:shadow_iron_boots>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:shadow_iron> * 432,<metallurgy:shadow_iron_chestplate>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:shadow_iron> * 144,<metallurgy:shadow_iron_dust>,2400); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:shadow_iron> * 432,<metallurgy:shadow_iron_engraved_block>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:shadow_iron> * 432,<metallurgy:shadow_iron_helmet>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:shadow_iron> * 288,<metallurgy:shadow_iron_hoe>,2400);
 mods.tconstruct.Melting.addRecipe(<liquid:shadow_iron> * 144,<metallurgy:shadow_iron_ingot>,2400);

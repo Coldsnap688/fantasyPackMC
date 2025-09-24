@@ -66,7 +66,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:deep_iron> * 1296,<metallurgy:deep_iro
 mods.tconstruct.Melting.addRecipe(<liquid:deep_iron> * 432,<metallurgy:deep_iron_boots>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:deep_iron> * 432,<metallurgy:deep_iron_chestplate>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:deep_iron> * 144,<metallurgy:deep_iron_dust>,800); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:deep_iron> * 432,<metallurgy:deep_iron_engraved_block>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:deep_iron> * 432,<metallurgy:deep_iron_helmet>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:deep_iron> * 144,<metallurgy:deep_iron_ingot>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:deep_iron> * 1008,<metallurgy:deep_iron_leggings>,800);
@@ -185,8 +184,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:osmium> * 1296,<metallurgy:osmium_bloc
 mods.tconstruct.Melting.addRecipe(<liquid:osmium> * 432,<metallurgy:osmium_boots>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:osmium> * 432,<metallurgy:osmium_chestplate>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:osmium> * 144,<metallurgy:osmium_dust>,800); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:osmium> * 1296,<metallurgy:osmium_engraved_block>,800);
-mods.tconstruct.Melting.addRecipe(<liquid:osmium> * 432,<metallurgy:osmium_helmet>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:osmium> * 144,<metallurgy:osmium_ingot>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:osmium> * 1008,<metallurgy:osmium_leggings>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:osmium> * 16,<metallurgy:osmium_nugget>,800);
@@ -232,7 +229,6 @@ mods.tconstruct.Melting.addRecipe(<liquid:prometheum> * 1296,<metallurgy:prometh
 mods.tconstruct.Melting.addRecipe(<liquid:prometheum> * 432,<metallurgy:prometheum_boots>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:prometheum> * 432,<metallurgy:prometheum_chestplate>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:prometheum> * 144,<metallurgy:prometheum_dust>,800); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:prometheum> * 432,<metallurgy:prometheum_engraved_block>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:prometheum> * 432,<metallurgy:prometheum_helmet>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:prometheum> * 144,<metallurgy:prometheum_ingot>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:prometheum> * 1008,<metallurgy:prometheum_leggings>,800);
@@ -250,7 +246,6 @@ val molten_tin = <liquid:tin>.definition;
 mods.tconstruct.Melting.removeRecipe(<liquid:tin>);
 mods.tconstruct.Melting.addRecipe(<liquid:tin> * 1296,<metallurgy:tin_block>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:tin> * 144,<metallurgy:tin_dust>,800); #or 288, we need to review!
-mods.tconstruct.Melting.addRecipe(<liquid:tin> * 1296,<metallurgy:tin_engraved_block>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:tin> * 144,<metallurgy:tin_ingot>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:tin> * 16,<metallurgy:tin_nugget>,800);
 mods.tconstruct.Melting.addRecipe(<liquid:tin> * 144,<metallurgy:tin_ore>,800);

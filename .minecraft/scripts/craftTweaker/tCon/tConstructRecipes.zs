@@ -206,6 +206,7 @@ var removePartTypeStringArray = [
 // remove default recipes for silky cloth and jewel
 recipes.removeByRecipeName("tconstruct:tools/materials/silky_cloth");
 recipes.removeByRecipeName("tconstruct:tools/materials/silky_jewel");
+recipes.removeByRecipeName("tconstruct:gadgets/piggybackpack");
 
 // Recipes Removals Furnace
 // remove default recipe for seared brick

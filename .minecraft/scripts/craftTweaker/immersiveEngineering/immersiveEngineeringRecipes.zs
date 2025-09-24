@@ -14,3 +14,10 @@ recipes.addShaped("spindletoughfabric", <immersiveengineering:material:5>,
 //Removals Recipes
 recipes.removeByRecipeName("immersiveengineering:material/string");
 recipes.removeByRecipeName("immersiveengineering:material/hemp_fabric");
+//ARMOR
+//Steel
+
+recipes.removeByRecipeName("immersiveengineering:armor/steel_head");
+recipes.removeByRecipeName("immersiveengineering:armor/steel_chest");
+recipes.removeByRecipeName("immersiveengineering:armor/steel_legs");
+recipes.removeByRecipeName("immersiveengineering:armor/steel_boots");
