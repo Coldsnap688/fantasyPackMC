@@ -93,19 +93,21 @@
 		"bewitchment:cold_iron_helmet",
 		"bewitchment:cold_iron_chestplate",
 		"bewitchment:cold_iron_leggings",
-		"bewitchment:cold_iron_boots",
+		"bewitchment:cold_iron_boots"
+	],
+	"modifier": -4
+  },
+  {
+	"names": [
 		"iceandfire:dragonsteel_ice_helmet",
 		"iceandfire:dragonsteel_ice_chestplate",
 		"iceandfire:dragonsteel_ice_leggings",
 		"iceandfire:dragonsteel_ice_boots"
 	],
-	"modifier": -4
+	"modifier": -6
   },
   {
     "names": [
-		"toughasnails:wool_helmet",
-		"toughasnails:wool_chestplate",
-		"toughasnails:wool_leggings",
 		"toughasnails:wool_boots",
 		"mocreatures:scorphelmetundead",
 		"mocreatures:scorpplateundead",
@@ -122,27 +124,21 @@
 		"minecraft:leather_helmet",
 		"minecraft:leather_chestplate",
 		"minecraft:leather_leggings",
-		"minecraft:leather_boots"
+		"minecraft:leather_boots",
+		"mocreatures:furboots",
+		"iceandfire:sheep_boots"
     ],
     "modifier": 1
   },
   {
 	"names": [
-		"mocreatures:furhelmet",
-		"mocreatures:furchestplate",
-		"mocreatures:furleggings",
-		"mocreatures:furboots",
 		"mocreatures:scorphelmetdirt",
 		"mocreatures:scorpplatedirt",
 		"mocreatures:scorplegsdirt",
 		"mocreatures:scorpbootsdirt",
 		"iceandfire:frost_troll_leather_helmet",
-		"iceandfire:frost_troll_leather_chestplate",
-		"iceandfire:frost_troll_leather_leggings",
 		"iceandfire:frost_troll_leather_boots",
 		"iceandfire:forest_troll_leather_helmet",
-		"iceandfire:forest_troll_leather_chestplate",
-		"iceandfire:forest_troll_leather_leggings",
 		"iceandfire:forest_troll_leather_boots",
 		"iceandfire:mountain_troll_leather_helmet",
 		"iceandfire:mountain_troll_leather_chestplate",
@@ -155,7 +151,10 @@
 		"twilightforest:arctic_helmet",
 		"twilightforest:arctic_chestplate",
 		"twilightforest:arctic_leggings",
-		"twilightforest:arctic_boots"
+		"twilightforest:arctic_boots",
+		"toughasnails:wool_helmet",
+		"mocreatures:furhelmet",
+		"iceandfire:sheep_helmet"
 	],
 	"modifier": 2
   },
@@ -165,10 +164,6 @@
 		"mocreatures:scorpplatenether",
 		"mocreatures:scorplegsnether",
 		"mocreatures:scorpbootsnether",
-		"iceandfire:sheep_helmet",
-		"iceandfire:sheep_chestplate",
-		"iceandfire:sheep_leggings",
-		"iceandfire:sheep_boots",
 		"harvestcraft:hardenedleatherhelmitem",
 		"harvestcraft:hardenedleatherchestitem",
 		"harvestcraft:hardenedleatherleggingsitem",
@@ -177,28 +172,50 @@
 		"twilightforest:yeti_chestplate",
 		"twilightforest:yeti_leggings",
 		"twilightforest:yeti_boots",
+		"mod_lavacow:felarmor_helmet",
+		"mod_lavacow:felarmor_chestplate",
+		"mod_lavacow:felarmor_leggings",
+		"mod_lavacow:felarmor_boots",
+		"toughasnails:wool_leggings",
+		"mocreatures:furleggings",
+		"iceandfire:forest_troll_leather_leggings",
+		"iceandfire:sheep_leggings"
+
+	],
+	"modifier": 3
+  },
+  {
+	"names": [
 		"metallurgy:ignatius_helmet",
 		"metallurgy:ignatius_chestplate",
 		"metallurgy:ignatius_leggings",
 		"metallurgy:ignatius_boots",
-		"mod_lavacow:felarmor_helmet",
-		"mod_lavacow:felarmor_chestplate",
-		"mod_lavacow:felarmor_leggings",
-		"mod_lavacow:felarmor_boots"
+		"toughasnails:wool_chestplate",
+		"mocreatures:furchestplate",
+		"iceandfire:forest_troll_leather_chestplate",
+		"iceandfire:frost_troll_leather_leggings",
+		"iceandfire:sheep_chestplate"
 	],
-	"modifier": 3
+	"modifier": 4
+  },
+  {
+	"names": [
+		"metallurgy:vulcanite_helmet",
+		"metallurgy:vulcanite_chestplate",
+		"metallurgy:vulcanite_leggings",
+		"metallurgy:vulcanite_boots",
+		"iceandfire:frost_troll_leather_chestplate"
+		
+	],
+	"modifier": 5
   },
   {
 	"names": [
 		"iceandfire:dragonsteel_fire_helmet",
 		"iceandfire:dragonsteel_fire_chestplate",
 		"iceandfire:dragonsteel_fire_leggings",
-		"iceandfire:dragonsteel_fire_boots",
-		"metallurgy:vulcanite_helmet",
-		"metallurgy:vulcanite_chestplate",
-		"metallurgy:vulcanite_leggings",
-		"metallurgy:vulcanite_boots"
+		"iceandfire:dragonsteel_fire_boots"
 	],
-	"modifier": 4
+	"modifier": 6
   }
 ]
