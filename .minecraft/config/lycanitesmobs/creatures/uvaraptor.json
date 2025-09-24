@@ -7,19 +7,18 @@
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityUvaraptor",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelUvaraptor",
   "loadDefault": false,
-  "enabled": false,
+  "enabled": true,
   "spawning": {
-    "enabled": false,
+    "enabled": true,
     "spawners": [
       "monster",
       "beast"
     ],
     "disableSubspecies": false,
     "dimensionIds": [
-      -1,
-      1
+      0
     ],
-    "dimensionListType": "blacklist",
+    "dimensionListType": "whitelist",
     "ignoreBiome": false,
     "biomeTags": [
       "jungle"

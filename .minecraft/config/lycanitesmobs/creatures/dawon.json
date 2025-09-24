@@ -7,9 +7,9 @@
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityDawon",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelDawon",
   "loadDefault": false,
-  "enabled": false,
+  "enabled": true,
   "spawning": {
-    "enabled": false,
+    "enabled": true,
     "spawners": [
       "monster",
       "beast"
